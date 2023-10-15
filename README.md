@@ -1,4 +1,4 @@
-#Coccidiosis-Classification-Transfer-Learning
+# Coccidiosis-Classification-Transfer-Learning
 
 This project is focused on the development of a machine learning model for the classification of coccidiosis in chickens based on the analysis of their fecal matter. Coccidiosis is a common and economically significant poultry disease caused by protozoan parasites. The accurate and early detection of coccidiosis is essential to prevent its spread and minimize economic losses in the poultry industry.
 
